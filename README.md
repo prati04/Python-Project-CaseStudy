@@ -1,1 +1,3 @@
 case study
+projects
+statistics
